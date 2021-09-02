@@ -9,7 +9,7 @@ git clone https://github.com/austinoski/django-vue-plugin
 ## Change to project directory
 You can rename the directory from django-vue-plugin to your own project name. Let us assume that we renamed it to **zc_plugin_dm**
 ```
-cd zuri_plugin_dm
+cd zc_plugin_dm
 ```
 
 ## Build Vue app and run django development server
